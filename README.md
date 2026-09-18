@@ -305,50 +305,10 @@ Exploring privacy-preserving machine learning approaches and their potential rel
 
 ## 🧠 Areas of Interest
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+| 📊 Healthcare Analytics | 🩺 Clinical Informatics | 🤖 Healthcare AI |
+|:---|:---|:---|
+| **Healthcare datasets**<br>SQL analytics<br>Patient trends<br>Clinical patterns<br>Operational analytics | **EHR / EMR**<br>Clinical workflows<br>Healthcare information systems<br>Interoperability<br>Decision support | **Machine Learning**<br>Predictive analytics<br>Federated learning<br>Responsible AI<br>Digital health |
 
-### Healthcare Analytics
-
-Healthcare datasets
-SQL analytics
-Patient trends
-Clinical patterns
-Operational analytics
-
-```
-</td>
-<td width="33%" valign="top">
-```
-
-### Clinical Informatics
-
-EHR / EMR
-Clinical workflows
-Healthcare information systems
-Interoperability
-Decision support
-
-```
-</td>
-<td width="33%" valign="top">
-```
-
-### Healthcare AI
-
-Machine Learning
-Predictive Analytics
-Federated Learning
-Responsible AI
-Digital Health
-
-```
-</td>
-```
-
-  </tr>
-</table>
 
 ## 📚 Learning Through Projects
 
