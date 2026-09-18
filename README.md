@@ -104,17 +104,18 @@ I'm building toward opportunities in:
   Data Cleaning&nbsp;&nbsp;•&nbsp;&nbsp;Data Wrangling&nbsp;&nbsp;•&nbsp;&nbsp;Exploratory Data Analysis&nbsp;&nbsp;•&nbsp;&nbsp;Statistics&nbsp;&nbsp;•&nbsp;&nbsp;Analytical SQL
 </p>
 
-### Visualization & Business Intelligence
+### 📊 Visualization & Business Intelligence
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="50" alt="Matplotlib">
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="50" alt="Plotly">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50" alt="Power BI">
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="50" alt="Tableau">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 <p align="center">
-  <strong>Matplotlib&nbsp;&nbsp;•&nbsp;&nbsp;Plotly&nbsp;&nbsp;•&nbsp;&nbsp;Power BI&nbsp;&nbsp;•&nbsp;&nbsp;Tableau</strong>
+  Data Visualization&nbsp;&nbsp;•&nbsp;&nbsp;Dashboards&nbsp;&nbsp;•&nbsp;&nbsp;Reporting&nbsp;&nbsp;•&nbsp;&nbsp;Data Storytelling
 </p>
 
 ### Machine Learning & AI
@@ -393,7 +394,11 @@ I'm building toward a career where **clinical knowledge and technology reinforce
 
 My interests sit across:
 
-**Healthcare Data Analytics** · **Clinical Informatics** · **HealthTech** · **Healthcare AI** · **Healthcare Data Systems**
+- **Healthcare Data Analytics** 
+- **Clinical Informatics**
+- **HealthTech**
+- **Healthcare AI**
+- **Healthcare Data Systems**
 
 
 <p align="center">
